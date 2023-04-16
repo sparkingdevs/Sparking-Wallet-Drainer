@@ -3,3 +3,5 @@
   Supports Metamask, Trust Wallet, Binance, Coinbase, Websites, Android, iOS and iPad Devices.
   
 # Coming Soon For FREE
+    Be the first to know immediately we release this script, Join Our Telegram Channel @SparkingDevs
+
